@@ -1,0 +1,19 @@
+{
+    "name": "Sugar Rush 1000 \u2013 poznaj funkcje gry i zagraj dzi\u015b | Great Slot",
+    "short_name": "Sugar Rush 1000",
+    "start_url": ".",
+    "display": "standalone",
+    "description": "Sugar Rush 1000 \u2013 odkryj intensywn\u0105 gr\u0119 online i sprawd\u017a jej funkcje w Polsce | Pragmatic Version oferuje emocje i bezpieczny, legalny start.",
+    "icons": [
+        {
+            "src": "images/fav.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/fav.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
